@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+nltk
+Sastrawi
+scikit-learn
+imbalanced-learn
+tensorflow>=2.13
+wordcloud
+google-play-scraper
