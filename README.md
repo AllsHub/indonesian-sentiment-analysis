@@ -1,4 +1,4 @@
-# 💬 Indonesian Sentiment Analysis — App Reviews
+# Indonesian Sentiment Analysis — App Reviews
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-154f5b)
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 jupyter notebook sentiment_analysis.ipynb
 ```
 
-## 👤 Author
+## Author
 
-**Aldo Maretra Putra** — Astronomy student & ML practitioner
-📧 aldomaretraputra7@gmail.com · 🤗 [aldomrtr](https://huggingface.co/aldomrtr) · 🐙 [AllsHub](https://github.com/AllsHub)
+**Aldo Maretra Putra** — Astronomy undergraduate & ML/AI engineer
+[LinkedIn](https://linkedin.com/in/aldomrtr) · [GitHub](https://github.com/AllsHub)
